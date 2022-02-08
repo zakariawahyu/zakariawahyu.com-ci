@@ -3,7 +3,7 @@
         <span aria-hidden="true">&times;</span>
     </button>
     <div class="header-inner d-flex align-items-start flex-column">
-        <a href="index.html"><img src="images/fotozaka90x90.png" alt="Zakaria Wahyu" /></a>
+        <a href="index.html"><img src="<?php echo base_url(); ?>/images/fotozaka90x90.png" alt="Zakaria Wahyu" /></a>
         <a href="index.html" class="site-title dot mt-3">Zakaria</a>
         <span class="site-slogan">Backend Developer</span>
         <!-- navigation menu -->

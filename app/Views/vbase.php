@@ -15,7 +15,7 @@
 	<meta property="og:type" content="article">
 	<meta property="og:url" content="https://www.zakariawahyu.com">
 	<meta property="og:site_name" content="ZakariaWahyu.COM">
-	<link rel="icon" type="image/png" sizes="32x32" href="images/logo32x32.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="<?php echo base_url(); ?>/images/logo32x32.png">
 	<link rel="canonical" href="https://www.zakariawahyu.com">
 	<!-- STYLESHEETS -->
 	<link rel="stylesheet" href="<?php echo base_url(); ?>/css/bootstrap.min.css" type="text/css" media="all">
@@ -43,7 +43,7 @@
 				<span></span>
 				<span></span>
 			</button>
-			<a href="index.html" class="logo"><img src="images/fotozaka90x90.png" alt="Zakaria Wahyu" /></a>
+			<a href="index.html" class="logo"><img src="<?php echo base_url(); ?>/images/fotozaka90x90.png" alt="Zakaria Wahyu" /></a>
 			<a href="index.html" class="site-title dot ml-2">Zakaria</a>
 		</div>
 		<!-- header -->
