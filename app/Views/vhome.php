@@ -1,5 +1,5 @@
 <!-- section hero -->
-<section class="hero background parallax shadow-dark d-flex align-items-center" id="home" data-image-src="images/zaka900x600.png">
+<section class="hero background parallax shadow-dark d-flex align-items-center" id="home" data-image-src="<?php echo base_url(); ?>/images/zaka900x600.png">
     <div class="cta mx-auto mt-2">
         <h1 class="mt-0 mb-4">I’m Zakaria<span class="dot"></span></h1>
         <p class="mb-4">I am a backend developer and always conduct good coding habits, clear
@@ -17,7 +17,7 @@
     <div class="spacer" data-height="50"></div>
     <div class="row">
         <div class="col-md-3">
-            <img src="images/fotozaka160x160.png" alt="about" />
+            <img src="<?php echo base_url(); ?>/images/fotozaka160x160.png" alt="about" />
         </div>
         <div class="col-md-9">
             <h2 class="mt-4 mt-md-0 mb-4">Hello,</h2>
@@ -364,7 +364,7 @@
                     </div>
                     <span class="plus-icon">+</span>
                     <div class="thumb">
-                        <img src="images/thumbnail/go_laundry.jpg" alt="Go-Laundry - Zakaria Wahyu" />
+                        <img src="<?php echo base_url(); ?>/images/thumbnail/go_laundry.jpg" alt="Go-Laundry - Zakaria Wahyu" />
                         <div class="mask"></div>
                     </div>
                 </div>
@@ -380,7 +380,7 @@
                     </div>
                     <span class="plus-icon">+</span>
                     <div class="thumb">
-                        <img src="images/thumbnail/ppsdmabandung.jpg" alt="PPSDMA Bandung - Zakaria Wahyu" />
+                        <img src="<?php echo base_url(); ?>/images/thumbnail/ppsdmabandung.jpg" alt="PPSDMA Bandung - Zakaria Wahyu" />
                         <div class="mask"></div>
                     </div>
                 </div>
@@ -396,7 +396,7 @@
                     </div>
                     <span class="plus-icon">+</span>
                     <div class="thumb">
-                        <img src="images/thumbnail/sipjabs.jpg" alt="SiPJabS - Zakaria Wahyu" />
+                        <img src="<?php echo base_url(); ?>/images/thumbnail/sipjabs.jpg" alt="SiPJabS - Zakaria Wahyu" />
                         <div class="mask"></div>
                     </div>
                 </div>
@@ -412,7 +412,7 @@
                     </div>
                     <span class="plus-icon">+</span>
                     <div class="thumb">
-                        <img src="images/thumbnail/karyawanku.jpg" alt="KaryawanKu - Zakaria Wahyu" />
+                        <img src="<?php echo base_url(); ?>/images/thumbnail/karyawanku.jpg" alt="KaryawanKu - Zakaria Wahyu" />
                         <div class="mask"></div>
                     </div>
                 </div>
@@ -428,7 +428,7 @@
                     </div>
                     <span class="plus-icon">+</span>
                     <div class="thumb">
-                        <img src="images/thumbnail/siadin.jpg" alt="Siadin - Zakaria Wahyu" />
+                        <img src="<?php echo base_url(); ?>/images/thumbnail/siadin.jpg" alt="Siadin - Zakaria Wahyu" />
                         <div class="mask"></div>
                     </div>
                 </div>
@@ -444,7 +444,7 @@
                     </div>
                     <span class="plus-icon">+</span>
                     <div class="thumb">
-                        <img src="images/thumbnail/pengingatutang.jpg" alt="Pengingat Utang Piutang - Zakaria Wahyu" />
+                        <img src="<?php echo base_url(); ?>/images/thumbnail/pengingatutang.jpg" alt="Pengingat Utang Piutang - Zakaria Wahyu" />
                         <div class="mask"></div>
                     </div>
                 </div>
@@ -459,7 +459,7 @@
                     </div>
                     <span class="plus-icon">+</span>
                     <div class="thumb">
-                        <img src="images/thumbnail/dicodingarsitekturaws.jpg" alt="Architecting on AWS" />
+                        <img src="<?php echo base_url(); ?>/images/thumbnail/dicodingarsitekturaws.jpg" alt="Architecting on AWS" />
                         <div class="mask"></div>
                     </div>
                 </div>
@@ -474,7 +474,7 @@
                     </div>
                     <span class="plus-icon">+</span>
                     <div class="thumb">
-                        <img src="images/thumbnail/dicodingbackendpemula.jpg" alt="Membuat Aplikasi Back-End untuk Pemula" />
+                        <img src="<?php echo base_url(); ?>/images/thumbnail/dicodingbackendpemula.jpg" alt="Membuat Aplikasi Back-End untuk Pemula" />
                         <div class="mask"></div>
                     </div>
                 </div>
@@ -489,7 +489,7 @@
                     </div>
                     <span class="plus-icon">+</span>
                     <div class="thumb">
-                        <img src="images/thumbnail/dicodingdasarpemogrmanweb.jpg" alt="Dasar Pemrograman Web" />
+                        <img src="<?php echo base_url(); ?>/images/thumbnail/dicodingdasarpemogrmanweb.jpg" alt="Dasar Pemrograman Web" />
                         <div class="mask"></div>
                     </div>
                 </div>
