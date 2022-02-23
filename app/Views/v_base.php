@@ -6,7 +6,7 @@
     <meta name="robots" content="index,follow">
 	<meta name="googlebot" content="index,follow">
 	<meta name="title" content="Zakaria Wahyu Nur Utomo - Personal Web Portfolio">
-	<meta name="description" content="Personal Web Portfolio of Zakaria Wahyu Nur Utomo">
+	<meta name="description" content="I am Zakaria Wahyu Nur Utomo, backend developer from Central Jakarta, Jakarta, Indonesia. I have with a lot of experience in developing applications">
 	<meta name="keywords" content="Zakaria, Zakaria Wahyu, Zakaria Wahyu Nur Utomo">
 	<meta name="author" content="Zakaria Wahyu Nur Utomo">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
